@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map APIR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Peripheral	KEYWORD1
+TemperatureSensor KEYWORD1
+TemperatureMeasurement KEYWORD1
+TemperatureSensorModel KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPin		KEYWORD2
+getModel	KEYWORD2
+configure	KEYWORD2
+receive		KEYWORD2
+pow 		KEYWORD2
+square 		KEYWORD2
+cubed 		KEYWORD2
+calculateTemperature KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
