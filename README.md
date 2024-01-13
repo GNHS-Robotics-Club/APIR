@@ -2,7 +2,15 @@
 
 ![Banner](https://user-images.githubusercontent.com/79918051/236221117-d6bc9b7e-42a3-44cb-b58d-9386f9ea6426.png)
 
-![download](https://img.shields.io/github/downloads/GNHS-Robotics-Club/APIR/total) ![issues](https://img.shields.io/github/issues/GNHS-Robotics-Club/APIR) ![commit](https://img.shields.io/github/last-commit/GNHS-Robotics-Club/APIR)
+</p>
+<p align="center">
+    <a href="https://img.shields.io/github/downloads/GNHS-Robotics-Club/APIR/total" alt="Downloads">
+        <img src="https://img.shields.io/github/downloads/GNHS-Robotics-Club/APIR/total" /></a>
+    <a href="https://img.shields.io/github/issues/GNHS-Robotics-Club/APIR" alt="Issues">
+        <img src="https://img.shields.io/github/issues/GNHS-Robotics-Club/APIR" /></a>
+    <a href="https://img.shields.io/github/last-commit/GNHS-Robotics-Club/APIR" alt="Commits">
+        <img src="https://img.shields.io/github/last-commit/GNHS-Robotics-Club/APIR" /></a>
+</p>
 
 Certain tasks in Arduino can be challenging. It requires numerous configurations to be properly utilized (e.g., pins, calculations, sensors, etc.), which can be difficult to manage as the project grows and makes the codebase difficult to read. 
 
