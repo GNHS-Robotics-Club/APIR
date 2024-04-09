@@ -74,7 +74,7 @@ With APIR, we can use the ```TemperatureSensor``` class to represent the TMP_36 
 
 - And finally, locate the .zip file that you've just downloaded and select it.
 
-## Documentation
+## Documentation 📘
 
 An [ongoing documentation](https://github.com/GNHS-Robotics-Club/APIR/wiki) is being constructed on this repository's wiki page.
 
