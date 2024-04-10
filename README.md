@@ -42,9 +42,9 @@ void loop() {
 }
 ```
 
-Consider the example above: This code is for the TMP_36 Temperature Sensor which measures the temperature of the environment. In the loop function, we first calculate the voltage by getting the analog data from the pin (A0), dividing it by 1023, and multiplying it by 5 and 1000. After we calculate the voltage, we then convert it to Celsius by subtracting the voltage by 500 and dividing it by 10. We can also convert the Celsius to Fahrenheit by using the conversion formula.
+The following code pertains to the utilization of the TMP_36 Temperature Sensor, designed for assessing environmental temperature. Within the loop function, the initial step involves voltage computation by acquiring analog data from pin A0, subsequently dividing it by 1023, and multiplying the quotient by 5 and 1000. Following this voltage calculation, the conversion to Celsius is facilitated by deducting 500 from the voltage and then dividing the result by 10. Moreover, the Celsius reading can be further converted to Fahrenheit through the application of the appropriate conversion formula.
 
-Now here's the problem, all I mentioned is quite a hassle, especially when doing this frequently, and the calculations become obsolete when a different model is used due to differences in design. With APIR, we instead do this:
+However, a notable issue arises from the complexity and repetitiveness inherent in these calculations, particularly when frequent temperature assessments are required. Additionally, the inherent reliance on specific calculation methods renders the code vulnerable to obsolescence upon transition to alternate sensor models, as discrepancies in design can significantly impact the accuracy and validity of the computations. With APIR, we instead do this:
 
 ```cpp
 #include <APIR.h>
