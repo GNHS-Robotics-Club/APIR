@@ -64,7 +64,7 @@ void loop() {
     Serial.println(fahrenheit);
 }
 ```
-With APIR, we can use the ```TemperatureSensor``` class to represent the TMP_36 Temperature Sensor and use its functions/methods to calculate the temperature. It also hides the complexity that is usually found when dealing with sensors.
+With APIR, we can use the ```TemperatureSensor``` class to represent the TMP_36 Temperature Sensor and use its functions/methods to calculate the temperature. It also hides the complexity that is usually found when dealing with such sensors.
 
 ## Installation ✔️
 - Install the .zip file from the [releases](https://github.com/GNHS-Robotics-Club/APIR/releases) page.
