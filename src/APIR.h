@@ -11,6 +11,7 @@
 #include "peripherals/Peripheral.h"
 #include "peripherals/TemperatureSensor.h"
 #include "peripherals/WaterSensor.h"
+#include "peripherals/InfraredSensor.h"
 #include "math/Math.h"
 
 #endif

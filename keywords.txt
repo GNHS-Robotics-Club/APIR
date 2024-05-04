@@ -13,6 +13,8 @@ TemperatureSensorModel  KEYWORD1
 WaterSensor		KEYWORD1
 WaterLevel		KEYWORD1
 WaterSensorModel	KEYWORD1
+InfraredSensor		KEYWORD1
+InfraredSensorModel	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
